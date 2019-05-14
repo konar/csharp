@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="20084QingGUO.FiveStar" Publisher="CN=3A19D2B3-11FF-49DC-8C1A-654B50373A2A" Version="1.0.0.1" />
+  <Properties>
+    <DisplayName>FiveStar</DisplayName>
+    <PublisherDisplayName>Qing GUO</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="FiveStar.App">
+      <VisualElements DisplayName="FiveStar" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="FiveStar, is an abstract strategy board game. Also called Gobang or Five in a Row, it is traditionally played with Go pieces (black and white stones) on a go board (9x19 intersections); however, because once placed, pieces are not moved or removed from the board, Gobang may also be played as a paper and pencil game. This game is known in several countries under different names. Black plays first, and players alternate in placing a stone of their color on an empty intersection. The winner is the first player to get an unbroken row of five stones horizontally, vertically, or diagonally." ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\fash.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

@@ -1,0 +1,13 @@
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\Bin\Release\ApplicationIcon.png
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\Bin\Release\Background.png
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\Bin\Release\Gopang.dll
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\Bin\Release\Gopang.pdb
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\Bin\Release\AppManifest.xaml
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\Bin\Release\Gopang.xap
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\obj\Release\ResolveAssemblyReference.cache
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\obj\Release\App.g.i.cs
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\obj\Release\MainPage.g.i.cs
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\obj\Release\Gopang.g.resources
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\obj\Release\Gopang.dll
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\obj\Release\Gopang.pdb
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\obj\Release\XapCacheFile.xml

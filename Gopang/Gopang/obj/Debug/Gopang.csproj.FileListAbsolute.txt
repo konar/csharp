@@ -1,0 +1,57 @@
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\Bin\Debug\ApplicationIcon.png
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\Bin\Debug\Background.png
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\Bin\Debug\Gopang.dll
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\Bin\Debug\Gopang.pdb
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\Bin\Debug\AppManifest.xaml
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\Bin\Debug\Gopang.xap
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\obj\Debug\ResolveAssemblyReference.cache
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\obj\Debug\App.g.i.cs
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\obj\Debug\MainPage.g.i.cs
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\obj\Debug\Gopang.g.resources
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\obj\Debug\Gopang.dll
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\obj\Debug\Gopang.pdb
+c:\users\qingguo\documents\visual studio 2010\Projects\Gopang\Gopang\obj\Debug\XapCacheFile.xml
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\ApplicationIcon.png
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\Background.png
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\Gopang.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\Gopang.pdb
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\AppManifest.xaml
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\Properties\WMAppManifest.xml
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\Gopang_Debug_AnyCPU.xap
+D:\Study\Projects\Projects\Gopang\Gopang\obj\Debug\App.g.cs
+D:\Study\Projects\Projects\Gopang\Gopang\obj\Debug\MainPage.g.cs
+D:\Study\Projects\Projects\Gopang\Gopang\obj\Debug\Gopang.g.resources
+D:\Study\Projects\Projects\Gopang\Gopang\obj\Debug\Gopang.dll
+D:\Study\Projects\Projects\Gopang\Gopang\obj\Debug\Gopang.pdb
+D:\Study\Projects\Projects\Gopang\Gopang\obj\Debug\XapCacheFile.xml
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\Microsoft.Advertising.Mobile.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\Microsoft.Advertising.Mobile.xml
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\Microsoft.AdMediator.Core.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\Microsoft.AdMediator.WindowsPhone8.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+D:\Study\Projects\Projects\Gopang\Gopang\obj\Debug\Gopang.csprojResolveAssemblyReference.cache
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\PhoneChessEngine.dll
+D:\Study\Projects\Projects\Gopang\Gopang\Bin\Debug\PhoneChessEngine.pdb

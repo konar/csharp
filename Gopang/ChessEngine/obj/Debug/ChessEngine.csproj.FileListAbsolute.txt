@@ -1,0 +1,17 @@
+D:\Study\Projects\Projects\Gopang\ChessEngine\bin\Debug\ChessEngine.dll
+D:\Study\Projects\Projects\Gopang\ChessEngine\bin\Debug\ChessEngine.pdb
+D:\Study\Projects\Projects\Gopang\ChessEngine\bin\Debug\ChessEngine.pri
+D:\Study\Projects\Projects\Gopang\ChessEngine\obj\Debug\ChessEngine.dll
+D:\Study\Projects\Projects\Gopang\ChessEngine\obj\Debug\ChessEngine.pdb
+D:\Study\Projects\Projects\Gopang\ChessEngine\obj\Debug\priconfig.xml
+D:\Study\Projects\Projects\Gopang\ChessEngine\obj\Debug\priconfig.xml.intermediate
+D:\Study\Projects\Projects\Gopang\ChessEngine\obj\Debug\layout.resfiles
+D:\Study\Projects\Projects\Gopang\ChessEngine\obj\Debug\layout.resfiles.intermediate
+D:\Study\Projects\Projects\Gopang\ChessEngine\obj\Debug\resources.resfiles
+D:\Study\Projects\Projects\Gopang\ChessEngine\obj\Debug\resources.resfiles.intermediate
+D:\Study\Projects\Projects\Gopang\ChessEngine\obj\Debug\pri.resfiles
+D:\Study\Projects\Projects\Gopang\ChessEngine\obj\Debug\pri.resfiles.intermediate
+D:\Study\Projects\Projects\Gopang\ChessEngine\obj\Debug\qualifiers.txt
+D:\Study\Projects\Projects\Gopang\ChessEngine\obj\Debug\qualifiers.txt.intermediate
+D:\Study\Projects\Projects\Gopang\ChessEngine\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Study\Projects\Projects\Gopang\ChessEngine\obj\Debug\ChessEngine.csprojResolveAssemblyReference.cache

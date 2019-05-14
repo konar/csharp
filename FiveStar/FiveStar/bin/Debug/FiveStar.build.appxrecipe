@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MININT-Q30TODV</Machine>
+    <WindowsUser>qingguo</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\bin\Debug\FiveStar.exe">
+      <PackagePath>FiveStar.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\bin\Debug\FiveStar.pdb">
+      <PackagePath>FiveStar.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\Assets\base.jpg">
+      <PackagePath>Assets\base.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\Assets\black.png">
+      <PackagePath>Assets\black.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\Assets\blackborder.png">
+      <PackagePath>Assets\blackborder.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\Assets\blackcandiate.png">
+      <PackagePath>Assets\blackcandiate.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\Assets\fash.png">
+      <PackagePath>Assets\fash.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\Assets\title.png">
+      <PackagePath>Assets\title.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\Assets\white.png">
+      <PackagePath>Assets\white.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\Assets\whiteborder.png">
+      <PackagePath>Assets\whiteborder.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\Assets\whitecandiate.png">
+      <PackagePath>Assets\whitecandiate.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\Documents\Visual Studio 2012\Projects\FiveStar\FiveStar\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

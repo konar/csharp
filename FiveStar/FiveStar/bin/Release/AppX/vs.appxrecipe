@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MININT-Q30TODV</Machine>
+    <WindowsUser>qingguo</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>72F8321519334967389F6861BEF592F222435D027D6C0C8A8902800B57D23228</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>20084QingGUO.FiveStar_1.0.0.1_neutral__c59csxkdm5x9c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>20084QingGUO.FiveStar_c59csxkdm5x9c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>20084QingGUO.FiveStar</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=3A19D2B3-11FF-49DC-8C1A-654B50373A2A</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-25T06:27:10.526</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\bin\Release\FiveStar.exe">
+      <PackagePath>FiveStar.exe</PackagePath>
+      <Modified>2012-11-25T06:27:09.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\bin\Release\FiveStar.pdb">
+      <PackagePath>FiveStar.pdb</PackagePath>
+      <Modified>2012-11-25T06:27:09.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\Assets\base.jpg">
+      <PackagePath>Assets\base.jpg</PackagePath>
+      <Modified>2012-11-15T14:45:46.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\Assets\footer.jpg">
+      <PackagePath>Assets\footer.jpg</PackagePath>
+      <Modified>2012-11-15T15:29:54.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\Assets\title.jpg">
+      <PackagePath>Assets\title.jpg</PackagePath>
+      <Modified>2012-11-15T15:35:03.403</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\Assets\black.png">
+      <PackagePath>Assets\black.png</PackagePath>
+      <Modified>2012-11-15T15:42:55.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\Assets\blackborder.png">
+      <PackagePath>Assets\blackborder.png</PackagePath>
+      <Modified>2012-11-15T15:49:42.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\Assets\blackcandiate.png">
+      <PackagePath>Assets\blackcandiate.png</PackagePath>
+      <Modified>2012-11-15T15:52:02.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\Assets\fash.png">
+      <PackagePath>Assets\fash.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-17T11:54:49.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-17T12:12:36.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T12:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\Assets\white.png">
+      <PackagePath>Assets\white.png</PackagePath>
+      <Modified>2012-11-15T15:43:41.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\Assets\whiteborder.png">
+      <PackagePath>Assets\whiteborder.png</PackagePath>
+      <Modified>2012-11-15T15:51:19.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\Assets\whitecandiate.png">
+      <PackagePath>Assets\whitecandiate.png</PackagePath>
+      <Modified>2012-11-15T15:54:21.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-13T18:19:17.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T08:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-17T12:09:33.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\qingguo\documents\visual studio 2012\Projects\FiveStar\FiveStar\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-18T17:25:02.192</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

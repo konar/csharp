@@ -1,0 +1,4 @@
+D:\Study\Projects\Projects\Gopang\PhoneChessEngine\Bin\Debug\PhoneChessEngine.dll
+D:\Study\Projects\Projects\Gopang\PhoneChessEngine\Bin\Debug\PhoneChessEngine.pdb
+D:\Study\Projects\Projects\Gopang\PhoneChessEngine\obj\Debug\PhoneChessEngine.dll
+D:\Study\Projects\Projects\Gopang\PhoneChessEngine\obj\Debug\PhoneChessEngine.pdb

@@ -1,0 +1,14 @@
+c:\users\qingguo\documents\visual studio 2010\Projects\HardDecisionMaker\HardDecisionMaker\Bin\Debug\ApplicationIcon.png
+c:\users\qingguo\documents\visual studio 2010\Projects\HardDecisionMaker\HardDecisionMaker\Bin\Debug\Background.png
+c:\users\qingguo\documents\visual studio 2010\Projects\HardDecisionMaker\HardDecisionMaker\Bin\Debug\HardDecisionMaker.dll
+c:\users\qingguo\documents\visual studio 2010\Projects\HardDecisionMaker\HardDecisionMaker\Bin\Debug\HardDecisionMaker.pdb
+c:\users\qingguo\documents\visual studio 2010\Projects\HardDecisionMaker\HardDecisionMaker\Bin\Debug\AppManifest.xaml
+c:\users\qingguo\documents\visual studio 2010\Projects\HardDecisionMaker\HardDecisionMaker\Bin\Debug\HardDecisionMaker.xap
+c:\users\qingguo\documents\visual studio 2010\Projects\HardDecisionMaker\HardDecisionMaker\obj\Debug\ResolveAssemblyReference.cache
+c:\users\qingguo\documents\visual studio 2010\Projects\HardDecisionMaker\HardDecisionMaker\obj\Debug\App.g.i.cs
+c:\users\qingguo\documents\visual studio 2010\Projects\HardDecisionMaker\HardDecisionMaker\obj\Debug\MainPage.g.i.cs
+c:\users\qingguo\documents\visual studio 2010\Projects\HardDecisionMaker\HardDecisionMaker\obj\Debug\HardDecisionMaker.g.resources
+c:\users\qingguo\documents\visual studio 2010\Projects\HardDecisionMaker\HardDecisionMaker\obj\Debug\HardDecisionMaker.dll
+c:\users\qingguo\documents\visual studio 2010\Projects\HardDecisionMaker\HardDecisionMaker\obj\Debug\HardDecisionMaker.pdb
+c:\users\qingguo\documents\visual studio 2010\Projects\HardDecisionMaker\HardDecisionMaker\obj\Debug\XapCacheFile.xml
+c:\users\qingguo\documents\visual studio 2010\Projects\HardDecisionMaker\HardDecisionMaker\obj\Debug\Roben.g.i.cs
